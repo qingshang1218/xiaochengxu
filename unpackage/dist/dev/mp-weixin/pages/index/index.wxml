@@ -1,0 +1,1 @@
+<view class="content"><yy-video-player vue-id="8dd740cc-1" auto-play="{{false}}" url="{{url}}" poster="{{poster}}" danmu-list="{{danmuList}}" show-back-btn="{{true}}" bind:__l="__l"></yy-video-player></view>

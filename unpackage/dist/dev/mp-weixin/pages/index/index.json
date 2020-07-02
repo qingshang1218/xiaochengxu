@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "yy-video-player": "/components/yy-video-player/yy-video-player"
+  }
+}
